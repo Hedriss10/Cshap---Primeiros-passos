@@ -11,3 +11,12 @@
 
 
 
+
+
+<p>
+    Scient
+    <a href='https://github.com/Hedriss10'>@Hedriss10</a>
+</p>
+
+<p>Esutodos em csharp para conceituar e melhorar o meu cv.</p>
+
